@@ -35,7 +35,7 @@ Check out a live demo here: [Demo Link](#)
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/azmayensabil/babylonjs_playground.git
+    git clone https://github.com/AzmayenSabil/babylonJS_playground.git
     cd babylonjs-react-playground
     ```
 
